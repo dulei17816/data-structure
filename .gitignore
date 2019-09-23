@@ -3,6 +3,7 @@
 .mvn
 mvnw
 mvnw.cmd
+out
 
 target/
 !.mvn/wrapper/maven-wrapper.jar
