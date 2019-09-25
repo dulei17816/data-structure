@@ -1,8 +1,5 @@
 package cn.com.data.structure.chapt01_array;
 
-import java.sql.Array;
-import java.util.ArrayList;
-
 public class MyArray<T> {
 
     /**
